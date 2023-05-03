@@ -1,4 +1,12 @@
 ### Hi there 👋
+🔭 I’m currently working as a Project Engineer in Wipro
+- 🌱 I’m currently learning Java FullStack, Cloud
+- 👯 I’m looking to collaborate on Java FullStack
+- 🤔 I’m looking for help with Java FullStack, ReactJS
+- 💬 Ask me about Automation testing as I have done that Amazon
+- 📫 How to reach me: arunavobiswas18@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: Java is so versatile that you can even run R language libraries in it to do data Analytics.
 
 <!--
 **DuesExMachina/DuesExMachina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
