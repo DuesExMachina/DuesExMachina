@@ -3,9 +3,7 @@
 <h3 align="center">🔭I’m currently working as a Project Engineer in Wipro</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duesexmachina&label=Profile%20views&color=0e75b6&style=flat" alt="duesexmachina" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duesexmachina" alt="duesexmachina" /></a> </p>
 
 - 🔭 I’m currently working on **Automotive Technologies**
 
@@ -20,6 +18,10 @@
 - 📫 How to reach me **arunavobiswas18@gmail.com**
 
 - ⚡ Fun fact **Java is so versatile that you can even run R language libraries in it to do data Analytics.**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duesexmachina&label=Profile%20views&color=0e75b6&style=flat" alt="duesexmachina" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=duesexmachina" alt="duesexmachina" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
